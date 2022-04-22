@@ -32,6 +32,8 @@ h1{
 
 .blog__link{
 	text-align: center;
+	font-size: 32px;
+	margin: 64px;
 }
 
 /*	タブレット(幅:640px以上)
